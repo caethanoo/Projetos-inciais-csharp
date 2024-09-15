@@ -1,0 +1,14 @@
+D:\DEV\Notaalunos\bin\Debug\net8.0\Notaalunos.exe
+D:\DEV\Notaalunos\bin\Debug\net8.0\Notaalunos.deps.json
+D:\DEV\Notaalunos\bin\Debug\net8.0\Notaalunos.runtimeconfig.json
+D:\DEV\Notaalunos\bin\Debug\net8.0\Notaalunos.dll
+D:\DEV\Notaalunos\bin\Debug\net8.0\Notaalunos.pdb
+D:\DEV\Notaalunos\obj\Debug\net8.0\Notaalunos.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\Notaalunos\obj\Debug\net8.0\Notaalunos.AssemblyInfoInputs.cache
+D:\DEV\Notaalunos\obj\Debug\net8.0\Notaalunos.AssemblyInfo.cs
+D:\DEV\Notaalunos\obj\Debug\net8.0\Notaalunos.csproj.CoreCompileInputs.cache
+D:\DEV\Notaalunos\obj\Debug\net8.0\Notaalunos.dll
+D:\DEV\Notaalunos\obj\Debug\net8.0\refint\Notaalunos.dll
+D:\DEV\Notaalunos\obj\Debug\net8.0\Notaalunos.pdb
+D:\DEV\Notaalunos\obj\Debug\net8.0\Notaalunos.genruntimeconfig.cache
+D:\DEV\Notaalunos\obj\Debug\net8.0\ref\Notaalunos.dll
