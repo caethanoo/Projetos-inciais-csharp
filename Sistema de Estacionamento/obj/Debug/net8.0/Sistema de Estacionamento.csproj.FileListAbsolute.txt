@@ -1,0 +1,14 @@
+D:\DEV\Sistema de Estacionamento\bin\Debug\net8.0\Sistema de Estacionamento.exe
+D:\DEV\Sistema de Estacionamento\bin\Debug\net8.0\Sistema de Estacionamento.deps.json
+D:\DEV\Sistema de Estacionamento\bin\Debug\net8.0\Sistema de Estacionamento.runtimeconfig.json
+D:\DEV\Sistema de Estacionamento\bin\Debug\net8.0\Sistema de Estacionamento.dll
+D:\DEV\Sistema de Estacionamento\bin\Debug\net8.0\Sistema de Estacionamento.pdb
+D:\DEV\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.AssemblyInfoInputs.cache
+D:\DEV\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.AssemblyInfo.cs
+D:\DEV\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.csproj.CoreCompileInputs.cache
+D:\DEV\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.dll
+D:\DEV\Sistema de Estacionamento\obj\Debug\net8.0\refint\Sistema de Estacionamento.dll
+D:\DEV\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.pdb
+D:\DEV\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.genruntimeconfig.cache
+D:\DEV\Sistema de Estacionamento\obj\Debug\net8.0\ref\Sistema de Estacionamento.dll
